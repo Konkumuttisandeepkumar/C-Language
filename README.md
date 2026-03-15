@@ -22,5 +22,5 @@ All programs compiled and run on Linux terminal with output documented.
 16. (remaining topics)
 
 ## Notes
-- 65 commits — one per exercise
-- Output screenshots included in C-LANGUAGE.pdf
+- X programs covering 16 topics
+- All output documented in C-LANGUAGE.pdf
