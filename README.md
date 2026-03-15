@@ -22,5 +22,5 @@ All programs compiled and run on Linux terminal with output documented.
 16. (remaining topics)
 
 ## Notes
-- X programs covering 16 topics
+- 50 programs covering 16 topics
 - All output documented in C-LANGUAGE.pdf
